@@ -39,6 +39,15 @@ Explore detailed case studies and insights from leading companies and profession
 - [Boosting Search Relevance using Business Logic Scripting](https://medium.com/trendyol-tech/boosting-search-relevance-using-business-logic-scripting-b1620f2a4e90)
 - [Vector Search at Trendyol Search Core](https://medium.com/trendyol-tech/vector-search-at-trendyol-search-core-42e52f9c7bb9)
 
+#### Zalando
+- [Paper Announcement: Leveraging Multimodal LLMs for Large-Scale Product Retrieval Evaluation](https://engineering.zalando.com/posts/2024/11/llm-as-a-judge-relevance-assessment-paper-announcement.html)
+- [The Modern Architecture of Search](https://engineering.zalando.com/posts/2017/06/the-modern-architecture-of-search.html)
+- [Talking to Elasticsearch](https://engineering.zalando.com/posts/2016/12/get-your-application-or-cluster-talking-to-elasticsearch.html)
+- [A Closer Look at Elasticsearch Express](https://engineering.zalando.com/posts/2016/11/a-closer-look-at-elasticsearch-express.html)
+- [Failing to Auto Scale Elasticsearch in Kubernetes](https://engineering.zalando.com/posts/2024/06/failing-to-auto-scale-elasticsearch-in-kubernetes.html)
+- [Migrating From Elasticsearch 7.17 to Elasticsearch 8.x: Pitfalls and Learnings](https://engineering.zalando.com/posts/2023/11/migrating-from-elasticsearch-7-to-8-learnings.html)
+- [Migrating From Elasticsearch 7.17 to Elasticsearch 8.x: Pitfalls and Learnings](https://engineering.zalando.com/posts/2023/11/migrating-from-elasticsearch-7-to-8-learnings.html)
+
 ---
 
 ### 2. Videos
