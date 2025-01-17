@@ -17,7 +17,18 @@ Explore detailed case studies and insights from leading companies and profession
 - [How Netflix Content Engineering makes a federated graph searchable (Part 2)](https://netflixtechblog.com/how-netflix-content-engineering-makes-a-federated-graph-searchable-part-2-49348511c06c)
 - [GraphQL Search Indexing](https://netflixtechblog.com/graphql-search-indexing-334c92e0d8d5)
 - [Implementing the Netflix Media Database](https://netflixtechblog.com/implementing-the-netflix-media-database-53b5a840b42a)
+
+#### Uber
+- [Lucene: Uber’s Search Platform Version Upgrade](https://www.uber.com/en-TR/blog/lucene-version-upgrade/)
+- [Engineering Uber Predictions in Real Time with ELK](https://www.uber.com/blog/elk/)
   
+#### Tinder
+- [How We Improved Our Performance Using ElasticSearch Plugins: Part 1](https://medium.com/tinder/how-we-improved-our-performance-using-elasticsearch-plugins-part-1-b0850a7e5224)
+- [How We Improved Our Performance Using ElasticSearch Plugins: Part 2](https://medium.com/tinder/how-we-improved-our-performance-using-elasticsearch-plugins-part-2-b051da2ee85b)
+- [Geosharded Recommendations Part 1: Sharding Approach](https://medium.com/tinder/geosharded-recommendations-part-1-sharding-approach-d5d54e0ec77a)
+- [Geosharded Recommendations Part 2: Architecture](https://medium.com/tinder/geosharded-recommendations-part-2-architecture-3396a8a7efb)
+- [Geosharded Recommendations Part 3: Consistency](https://medium.com/tinder/geosharded-recommendations-part-3-consistency-2d2cb2f0594b)
+- 
 #### Trendyol
 - [Optimizing Elasticsearch with Custom Routing and Handling Routing Value Changes](https://medium.com/trendyol-tech/optimizing-elasticsearch-with-custom-routing-and-handling-routing-value-changes-25e5b0202c0c)
 - [Ensuring Elasticsearch Cluster Health at Scale: A Comprehensive Solution from Search Core](https://medium.com/trendyol-tech/ensuring-elasticsearch-cluster-health-at-scale-a-comprehensive-solution-from-search-core-1b4be52adc06)
