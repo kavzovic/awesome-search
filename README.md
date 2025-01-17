@@ -28,7 +28,8 @@ Explore detailed case studies and insights from leading companies and profession
 - [Geosharded Recommendations Part 1: Sharding Approach](https://medium.com/tinder/geosharded-recommendations-part-1-sharding-approach-d5d54e0ec77a)
 - [Geosharded Recommendations Part 2: Architecture](https://medium.com/tinder/geosharded-recommendations-part-2-architecture-3396a8a7efb)
 - [Geosharded Recommendations Part 3: Consistency](https://medium.com/tinder/geosharded-recommendations-part-3-consistency-2d2cb2f0594b)
-- 
+- [How Tinder Recommends To 75 Million Users with Geosharding](https://blog.bytebytego.com/p/how-tinder-recommends-to-75-million)
+  
 #### Trendyol
 - [Optimizing Elasticsearch with Custom Routing and Handling Routing Value Changes](https://medium.com/trendyol-tech/optimizing-elasticsearch-with-custom-routing-and-handling-routing-value-changes-25e5b0202c0c)
 - [Ensuring Elasticsearch Cluster Health at Scale: A Comprehensive Solution from Search Core](https://medium.com/trendyol-tech/ensuring-elasticsearch-cluster-health-at-scale-a-comprehensive-solution-from-search-core-1b4be52adc06)
