@@ -9,6 +9,15 @@ A curated collection of high-quality resources, articles, videos, engineering bl
 ### 1. Engineering Blogs
 Explore detailed case studies and insights from leading companies and professionals in the field of search technologies.
 
+#### Netflix
+- [Reverse Searching Netflix’s Federated Graph](https://netflixtechblog.com/reverse-searching-netflixs-federated-graph-222ac5d23576)
+- [Elasticsearch Indexing Strategy in Asset Management Platform (AMP)](https://netflixtechblog.com/elasticsearch-indexing-strategy-in-asset-management-platform-amp-99332231e541)
+- [Data Reprocessing Pipeline in Asset Management Platform @Netflix](https://netflixtechblog.com/data-reprocessing-pipeline-in-asset-management-platform-netflix-46fe225c35c9)
+- [How Netflix Content Engineering makes a federated graph searchable](https://netflixtechblog.com/how-netflix-content-engineering-makes-a-federated-graph-searchable-5c0c1c7d7eaf)
+- [How Netflix Content Engineering makes a federated graph searchable (Part 2)](https://netflixtechblog.com/how-netflix-content-engineering-makes-a-federated-graph-searchable-part-2-49348511c06c)
+- [GraphQL Search Indexing](https://netflixtechblog.com/graphql-search-indexing-334c92e0d8d5)
+- [Implementing the Netflix Media Database](https://netflixtechblog.com/implementing-the-netflix-media-database-53b5a840b42a)
+  
 #### Trendyol
 - [Optimizing Elasticsearch with Custom Routing and Handling Routing Value Changes](https://medium.com/trendyol-tech/optimizing-elasticsearch-with-custom-routing-and-handling-routing-value-changes-25e5b0202c0c)
 - [Ensuring Elasticsearch Cluster Health at Scale: A Comprehensive Solution from Search Core](https://medium.com/trendyol-tech/ensuring-elasticsearch-cluster-health-at-scale-a-comprehensive-solution-from-search-core-1b4be52adc06)
