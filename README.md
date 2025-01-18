@@ -58,6 +58,10 @@ Explore detailed case studies and insights from leading companies and profession
 - [Forwarding Kubernetes Container’s Logs to Elasticsearch with Fluent Bit and Showing Logs with Kibana](https://medium.com/trendyol-tech/forwarding-kubernetes-containers-logs-to-elasticsearch-with-fluent-bit-and-showing-logs-with-411587e54e22)
 - [Elasticsearch(1.7.x) Configuration and Performance Tuning](https://medium.com/trendyol-tech/elasticsearch-1-7-x-configuration-and-performance-tuning-9b214f93486a)
 - [E-Export: SPI Team’s Key Role in Data Aggregation and Efficient Querying](https://medium.com/trendyol-tech/e-export-spi-teams-key-role-in-data-aggregation-and-efficient-querying-796396fa499e)
+- [How Search Crashed Suddenly Every Sunday: The Path of SRE](https://medium.com/trendyol-tech/how-search-crashed-suddenly-every-sunday-the-path-of-sre-88ca9431d34d)
+- [The Mystery of Search’s Sunday Shutdowns: Investigating the Causes](https://medium.com/trendyol-tech/the-mystery-of-searchs-sunday-shutdowns-investigating-the-causes-754271d26b8a)
+- [Evolution of Promotion Search at Trendyol](https://medium.com/trendyol-tech/evolution-of-promotion-search-at-trendyol-34570f0e06cb)
+- [Trendyol Search: Voyager](https://medium.com/trendyol-tech/trendyol-search-voyager-7314d3f5a669)
 
 #### Zalando
 - [Paper Announcement: Leveraging Multimodal LLMs for Large-Scale Product Retrieval Evaluation](https://engineering.zalando.com/posts/2024/11/llm-as-a-judge-relevance-assessment-paper-announcement.html)
