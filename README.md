@@ -63,7 +63,7 @@ Explore detailed case studies and insights from leading companies and profession
 - [Evolution of Promotion Search at Trendyol](https://medium.com/trendyol-tech/evolution-of-promotion-search-at-trendyol-34570f0e06cb)
 - [Trendyol Search: Voyager](https://medium.com/trendyol-tech/trendyol-search-voyager-7314d3f5a669)
 
-#### Vespa
+#### Vinted
 - [Vinted Search Scaling Chapter 9: Billion-Scale Search!](https://vinted.engineering/2025/01/10/1-billion-items-in-search/)
 - [Vinted Search Scaling Chapter 8: Goodbye Elasticsearch, Hello Vespa Search Engine](https://vinted.engineering/2024/09/05/goodbye-elasticsearch-hello-vespa)
 - [Adopting the Vespa search engine for serving personalized second-hand fashion recommendations at Vinted](https://vinted.engineering/2023/10/09/adopting-vespa-for-recommendation-retrieval/)
