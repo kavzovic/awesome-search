@@ -63,6 +63,19 @@ Explore detailed case studies and insights from leading companies and profession
 - [Evolution of Promotion Search at Trendyol](https://medium.com/trendyol-tech/evolution-of-promotion-search-at-trendyol-34570f0e06cb)
 - [Trendyol Search: Voyager](https://medium.com/trendyol-tech/trendyol-search-voyager-7314d3f5a669)
 
+#### Vespa
+- [Vinted Search Scaling Chapter 9: Billion-Scale Search!](https://vinted.engineering/2025/01/10/1-billion-items-in-search/)
+- [Vinted Search Scaling Chapter 8: Goodbye Elasticsearch, Hello Vespa Search Engine](https://vinted.engineering/2024/09/05/goodbye-elasticsearch-hello-vespa)
+- [Adopting the Vespa search engine for serving personalized second-hand fashion recommendations at Vinted](https://vinted.engineering/2023/10/09/adopting-vespa-for-recommendation-retrieval/)
+- [Vinted Search Scaling Chapter 7: Rebuilding search indexing pipeline](https://vinted.engineering/2023/09/25/search-indexing-pipeline/)
+- [Faceted search using Elasticsearch](https://vinted.engineering/2023/03/21/faceted-search-using-elasticsearch/)
+- [Vinted Search Scaling Chapter 6: 4th generation of Elasticsearch metrics](https://vinted.engineering/2021/12/20/elasticsearch-4th-generation-metrics/)
+- [Vinted Search Scaling Chapter 5: Divide and Conquer](https://vinted.engineering/2021/12/14/divide-and-conquer/)
+- [Vinted Search Scaling Chapter 4: Query Log](https://vinted.engineering/2021/05/17/elasticsearch-query-log/)
+- [Vinted Search Scaling Chapter 3: Elasticsearch Index Management](https://vinted.engineering/2021/02/08/elasticsearch-index-management/)
+- [Vinted Search Scaling Chapter 2: Routing Elasticsearch Requests with srouter](https://vinted.engineering/2021/01/26/routing-elasticsearch-requests-with-srouter/)
+- [Vinted Search Scaling Chapter 1: Indexing](https://vinted.engineering/2021/01/12/elasticsearch-indexing-pipeline/)
+
 #### Zalando
 - [Paper Announcement: Leveraging Multimodal LLMs for Large-Scale Product Retrieval Evaluation](https://engineering.zalando.com/posts/2024/11/llm-as-a-judge-relevance-assessment-paper-announcement.html)
 - [The Modern Architecture of Search](https://engineering.zalando.com/posts/2017/06/the-modern-architecture-of-search.html)
